@@ -83,7 +83,6 @@
     "babel-core": "^7.0.0-bridge.0",
     "babel-jest": "^23.4.2",
     "concurrently": "^3.5.1",
-    "husky": "^1.0.0",
     "jest": "^26.1.0",
     "jest-cli": "^25.3.0",
     "jest-express": "^1.11.3",
